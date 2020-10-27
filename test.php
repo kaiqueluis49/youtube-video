@@ -1,5 +1,5 @@
 <?php
-require ("yourdirectory/Youtube.php");
+require (Youtube.php");
 $channel="UC-9-kyTW8ZkZNDHQJ6FgpwQ"; //youtube music channel id
 $Youtube = new Youtube($channel);//Channel id or channel user
 $video   = $Youtube->video(3); //Here you choose the number of videos to be processed
