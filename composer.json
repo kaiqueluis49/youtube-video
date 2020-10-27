@@ -1,0 +1,17 @@
+{
+    "name": "kaiqueluis49/youtube-videos",
+    "description": "Youtube videos via RSS",
+    "keywords": [
+        "Youtube",
+        "RSS"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KLSL"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
